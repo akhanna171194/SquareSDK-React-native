@@ -1,0 +1,1 @@
+# SquareSDK-React-native
